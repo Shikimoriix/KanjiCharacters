@@ -22,8 +22,7 @@ Kanji has its historical roots in Chinese writing. The word itself means "Chines
 Elementary school students have to learn about 1,000 characters. That number doubles by high school. Beginning in the late 1900s, Japanese education officials have added more and more kanji to the curriculum. Because the language has such deep historical roots, literally thousands more kanji have evolved over time and are still in use.
 
 **Common Kanji Characters**
-
-Here are 100 of the most frequently used kanji in Japanese newspapers. Newspapers give a great representation of the best and most useful kanji to learn because you are more likely to come across these characters in day-to-day use.
+> Here are 100 of the most frequently used kanji in Japanese newspapers. Newspapers give a great representation of the best and most useful kanji to learn because you are more likely to come across these characters in day-to-day use.
 
 | Symbol | Meaning |
 | :----: | :-----: |
