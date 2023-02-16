@@ -1,6 +1,6 @@
 # Kanji Characters
 
-> By [Itachi Uchiha](https://github.com/ikx7a) Updated on Jan 21, 2023
+> By [Sʜᴀᴅᴏᴡ 这](https://github.com/ikx7a) Updated on Jan 21, 2023
 
 With three different ways of writing, the Japanese language may seem intimidating to new students. It's true that memorizing the most common kanji symbols and other scripts takes time and practice. But once you've mastered them, you'll discover a means of written communication unlike anything you'll see in the English language.
 
